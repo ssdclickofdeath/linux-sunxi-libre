@@ -1,5 +1,5 @@
 #Linux Sunxi Libre Mirror
-This repository is a mirror of the port of linux-sunxi-libre that *was* hosted at [http://platen-software.de/linux-sunxi/](http://platen-software.de/linux-sunxi/), but now gives a 404 error.
+This repository is a mirror of the port of linux-sunxi-libre that *was* hosted at [http://platen-software.de/linux-sunxi/](http://platen-software.de/linux-sunxi/), but now gives a 404 error. See [this](http://trisquel.info/en/forum/olinuxino-free-alternative-raspberry-pi) forum thread for more information.
 
 The file is split up into three parts due to GitHub's size limit. The parts can be rejoined with 7-zip.
 
